@@ -71,4 +71,26 @@ summary{
     font-weight: bold;
     font-size: 1.2em;
 }
-
+#urlap{
+    border: 1px aqua solid;
+    border-radius: 10%;
+    width: 50%;
+    text-align: center;
+}
+input{
+    background-color: aqua;
+    border: 1px red solid;
+    border-radius: 5%;
+}
+input:focus{
+    border: 1px lime solid; 
+}
+label, input{
+    font-size: 1.3em;
+}
+footer{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+    text-align: center;
+}
