@@ -74,7 +74,8 @@ summary{
 #urlap{
     border: 1px aqua solid;
     border-radius: 10%;
-    width: 50%;
+    width: 70%;
+    height: 50%;
     text-align: center;
 }
 input{
@@ -85,8 +86,8 @@ input{
 input:focus{
     border: 1px lime solid; 
 }
-label, input{
-    font-size: 1.5em;
+label, input, button{
+ font-size: 1.5em;
 }
 footer{
     background-color: black;
